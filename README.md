@@ -11,7 +11,7 @@
   
 - 📝 I regularly write articles on [https://dev.to/kawanedres](https://dev.to/kawanedres)
   
-- 💬 Ask me about **Javascript,React js , Next js , Node js , Express js , MySql , three js , React three fiber**
+- 💬 Ask me about **Javascript,React js , Next js , Node js , Express js , MySql , three js , React three fiber  , Rust Programming**
   
 - 📫 How to reach me **kawanedres211@gmail.com**  
   or contact me via **+964 750 398 2829**
